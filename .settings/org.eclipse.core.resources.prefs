@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=GBK
+encoding//src/main/java/angel/core/Exception/BindNumExitedException.java=GBK
+encoding//src/main/java/angel/core/Exception/RecordNotFoundException.java=GBK
+encoding//src/main/java/angel/core/Exception/RelationNotMatchingException.java=GBK
+encoding//src/main/java/angel/core/Exception/UserExistedException.java=GBK
+encoding//src/main/java/angel/core/Exception/UserNotFoundException.java=GBK
+encoding//src/main/java/angel/core/Exception/UserNotLoginException.java=GBK
+encoding//src/main/java/angel/core/Exception/WrongCaptchaException.java=GBK
+encoding//src/main/resources=GBK
+encoding//src/test/java=GBK
+encoding/<project>=GBK
